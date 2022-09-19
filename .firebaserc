@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "customerrelationshipmana-be669": {
+      "hosting": {
+        "CRM": [
+          "customerrelationshipmana-be669"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "customerrelationshipmana-be669"
+  }
+}
