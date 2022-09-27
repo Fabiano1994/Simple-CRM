@@ -14,7 +14,8 @@ export class DialogAddUserComponent implements OnInit {
   birthDate: Date; 
   loading = false;
 
-  constructor(public dialogRef: MatDialogRef<DialogAddUserComponent>, private firestore: AngularFirestore) {
+  constructor(public dialogRef: MatDialogRef<DialogAddUserComponent>, 
+    private firestore: AngularFirestore) {
 
   }
 
